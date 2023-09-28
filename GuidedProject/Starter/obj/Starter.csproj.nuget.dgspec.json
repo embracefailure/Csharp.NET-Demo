@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Timmy\\Desktop\\ms-learn\\C# .NET demo\\GuidedProject\\Starter\\Starter.csproj": {}
+    "C:\\Users\\Timmy\\Desktop\\ms-learn\\C# .NET demo\\GuidedProject\\Starter\\Starter.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Timmy\\Desktop\\ms-learn\\C# .NET demo\\GuidedProject\\Starter\\Starter.csproj": {
+    "C:\\Users\\Timmy\\Desktop\\ms-learn\\C# .NET demo\\GuidedProject\\Starter\\Starter.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Timmy\\Desktop\\ms-learn\\C# .NET demo\\GuidedProject\\Starter\\Starter.csproj",
+        "projectUniqueName": "C:\\Users\\Timmy\\Desktop\\ms-learn\\C# .NET demo\\GuidedProject\\Starter\\Starter.csproj",
         "projectName": "Starter",
-        "projectPath": "c:\\Users\\Timmy\\Desktop\\ms-learn\\C# .NET demo\\GuidedProject\\Starter\\Starter.csproj",
+        "projectPath": "C:\\Users\\Timmy\\Desktop\\ms-learn\\C# .NET demo\\GuidedProject\\Starter\\Starter.csproj",
         "packagesPath": "C:\\Users\\Timmy\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Timmy\\Desktop\\ms-learn\\C# .NET demo\\GuidedProject\\Starter\\obj\\",
+        "outputPath": "C:\\Users\\Timmy\\Desktop\\ms-learn\\C# .NET demo\\GuidedProject\\Starter\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Timmy\\AppData\\Roaming\\NuGet\\NuGet.Config"
